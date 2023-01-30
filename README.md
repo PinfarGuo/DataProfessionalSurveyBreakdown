@@ -1,3 +1,4 @@
+![Dashboard](https://github.com/PinfarGuo/DataProfessionalSurveyBreakdown/blob/main/DataProfessionalProject.jpg)
 # Data Professional Survey Breakdown
 Using Data provided by [AlexTheAnalyst](https://github.com/AlexTheAnalyst/Power-BI/blob/main/Power%20BI%20-%20Final%20Project.xlsx) about different data professionals, their salaries, locations, ethnicity, and more in a project to showcase skills in cleaning data in excel and presenting that information in PowerBI.
 
